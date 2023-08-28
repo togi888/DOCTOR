@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 95,
+    "uniqCompNum": 103,
     "versionPublish": "5.9.4",
     "imageResize": true,
     "chatbutton": {},
@@ -87,12 +87,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "GREEN OPTIONS LLC - Нүүр хуудас",
+        "title": "MEDICAL DOCTOR LLC - НҮҮР ХУУДАС",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo-466x203.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/366539617_122099999756003197_4530779798096190099_n-1024x768.jpg"
       },
       "components": [
         {
@@ -1384,7 +1384,7 @@
     "page1.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - БАЙГАЛЬ ОРЧНЫ МЕНЕЖМЕНТИЙН ТӨЛӨВЛӨГӨӨ",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
@@ -2361,7 +2361,7 @@
     "page2.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - ХИМИЙН ХОРТОЙ БОЛОН АЮУЛТАЙ БОДИСЫН ЭРСДЭЛИЙН ҮНЭЛГЭЭ",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -3338,7 +3338,7 @@
     "page3.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - БАЙГАЛЬ ОРЧНЫ ТӨЛӨВ БАЙДЛЫН ҮНЭЛГЭЭ",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
@@ -4314,7 +4314,7 @@
     "page4.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - ХОЛБОО БАРИХ",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -5213,7 +5213,7 @@
     "page5.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - ХИЙСЭН АЖИЛ",
-        "order": "2"
+        "order": "3"
       },
       "components": [
         {
@@ -6164,7 +6164,7 @@
     "page6.html": {
       "settings": {
         "title": "GREEN OPTIONS LLC - БОЛОВСОН ХҮЧИН",
-        "order": "1"
+        "order": "2"
       },
       "components": [
         {
